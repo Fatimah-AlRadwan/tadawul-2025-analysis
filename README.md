@@ -2,7 +2,7 @@
 
 **Author:** Fatimah Alradwan  
 **Date:** April 2026  
-**Status:** Complete
+**Status:** In Progress
 
 ---
 
@@ -59,11 +59,10 @@ tadawul-2025-analysis/
 ├── notebooks/
 │   └── Tadawul_2025_Analysis.ipynb
 ├── README.md
-└── TABLEAU_DASHBOARD_GUIDE.md
 ```
 
 ## Dashboard
 🔗 [View Tableau Dashboard](link)  
 
 ## Data Source
-All data extracted from the official [Tadawul website](https://www.tadawul.com.sa) — Saudi Exchange.
+All data extracted from the official [Tadawul website](https://www.saudiexchange.sa) — Saudi Exchange.

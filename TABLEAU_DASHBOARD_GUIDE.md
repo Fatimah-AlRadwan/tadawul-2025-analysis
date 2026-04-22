@@ -83,8 +83,3 @@ Load all 4 CSV files from `/data` folder:
 ## Filters to add (as dashboard filter cards)
 - Sector (multi-select)
 - Quarter (buttons: Q1 / Q2 / Q3 / Q4)
-
-## Publishing
-1. File → Save to Tableau Public
-2. Copy the public link
-3. Add the link to your GitHub README
