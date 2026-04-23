@@ -62,7 +62,7 @@ tadawul-2025-analysis/
 ```
 
 ## Dashboard
-🔗 [View Tableau Dashboard](link)  
+🔗 [View Tableau Dashboard](https://public.tableau.com/views/Tadawul2025SaudiStockMarketAnalysis/TadawulDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ## Data Source
 All data extracted from the official [Tadawul website](https://www.saudiexchange.sa) — Saudi Exchange.
